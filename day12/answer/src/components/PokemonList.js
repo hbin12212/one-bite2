@@ -10,7 +10,7 @@ export default function PokemonList({ $app, initialState, handleItemClick, handl
     this.handleTypeClick = handleTypeClick;
 
     this.template = () => {
-        let temp = [];
+        let temp = '';
         if (this.state) {
             this.state.forEach((elm, idx) => {
                 temp += `<div class="pokemon-wrapper">
