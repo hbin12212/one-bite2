@@ -12,3 +12,5 @@ console.log(sumAndDouble(1, 2, 3, 4));
 ```
 
 > [정답 보기](https://github.com/hbin12212/one-bite2/tree/main/day05/mission/answer/mission1/index.js)
+
+### 미션2. 지금까지 배운 자바스크립트 기초 개념들을 본인만의 언어로, 그리고 본인만의 방식으로(블로그, 카페, 노션 등) 간단하게 정리해서 공유해주세요 :) 
